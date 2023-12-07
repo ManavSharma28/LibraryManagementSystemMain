@@ -1,0 +1,14 @@
+*******************************************
+*  Library Management System Menu:        *
+*                                         *
+*  Administrator Functions :              *
+*                                         *
+*  1. Add Book                            *
+*  2. Add User                            *
+*  3. Display all users                   *
+*  4. Display particular user information *
+*  5. Display all books                   *
+*  6. Display particular book information *
+*  0. Log out                             *
+*                                         *
+*******************************************

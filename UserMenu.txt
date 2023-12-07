@@ -1,0 +1,13 @@
+********************************
+*  User Functions :            *
+*                              *
+*  1. Borrow Book              *
+*  2. Return Book              *
+*  3. My borrowed books        *
+*  4. My details               *
+*  5. Pay Fine                 *
+*  6. Change password          *
+*  7. Check book Availability  *
+*  0. Log out                  *
+*                              *
+********************************
