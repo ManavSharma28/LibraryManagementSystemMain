@@ -1,0 +1,1 @@
+A simple CLI based java project for library management system where you can track books and users and the borrowing history of users. Also you can track the fine for users who return books after the deadline. To avoid data loss the project is connected to JDBC.
